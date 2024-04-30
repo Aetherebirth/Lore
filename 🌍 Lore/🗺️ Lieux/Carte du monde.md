@@ -14,4 +14,4 @@
 # Autres
 - [[Jadis L'Empire Zun]]
 # Visuel
-![[Carte du monde-20240429235104744.webp|594]]![[Carte du monde-20240429235304185.webp|490]]
+![[Carte du monde-20240430163128664.webp|571]]
