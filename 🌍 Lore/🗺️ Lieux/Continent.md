@@ -1,0 +1,1 @@
+Archipelle principale : plus grande île où le héros évolue, on y retrouve de tous les peuples
