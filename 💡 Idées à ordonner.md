@@ -7,4 +7,4 @@
 	- ne jamais mourir 
 	- Chaque mort les voit oublié de la mémoire des gens rencontrés, ils réapparaissent à un lieu précédemment visité
 	- La plupart cherchent un moyen de briser la malédiction
-6.  
+6.  Floréclat, A season of growth and blossoming

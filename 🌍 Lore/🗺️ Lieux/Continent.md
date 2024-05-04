@@ -1,1 +1,1 @@
-Archipelle principale : plus grande île où le héros évolue, on y retrouve de tous les peuples
+Archipel principal : composés des plus grands arches notamment la grande arche "name" où le héros évolue, on y retrouve de tous les peuples.
