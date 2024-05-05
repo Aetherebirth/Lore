@@ -1,8 +1,8 @@
 # Caractérisiques
-**Capitale :** Zénith 
+**Capitale :** Zénith (Ruines), 
 **Régent :** 
-**Topographie :** 
-**Peuples :** 
+**Localisation :** Situés au centre de l'île au milieu du [[lac Aure]]
+**Peuples :** Fantômes
 # Description
 # Histoire
 [[Division de l'Empire Zun]].
