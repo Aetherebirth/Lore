@@ -20,7 +20,9 @@ In : humain  -> ni : peu d'humain, village
 
 it : île, arche
 li : étendue, long 
+il : territoire, borné, exïgue
 Xi : autre
+Ix : soit, personnel 
 
 y : petit
 bē : grand, haut, gigantesque 
@@ -41,7 +43,9 @@ Sha : chaleur, feu  -> sham : désert, sable
 Vo : froid -> Von : glace
 
 Fō : ancien, oublié
-ōf : récent, souvenir
+ōf : récent, souvenir, information
+Sol : Vrai, vérité
+Los : faux, mensonge
 
 En : métal, dur, résistant, gardé
 

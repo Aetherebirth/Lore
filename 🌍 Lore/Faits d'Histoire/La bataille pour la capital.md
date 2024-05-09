@@ -1,6 +1,6 @@
-Suite au début de la guerre de succession, héritier A et héritier B sont a la courses pour le trône. Afin de gagner en légitimité et afin de controller le centre névralgique de l'empire, héritier A et héritier B font la courses pour la capital. 
+Suite au début de la guerre de succession, héritier A et héritier B sont a la courses pour le trône. Afin de gagner en légitimité et contrôler le centre névralgique de l'empire, héritier A et héritier B font la courses pour la capital. 
 
-Suite à l'arriver d'héritier A, la milice de la capital, ouvre les portes a celui-ci le voyant comme heir légitime de l'empire. Afin d’empêcher successeur A de gagner un avantage considérable(économique, militaire et stratégique), héritier B ordonne un barrage de feu pour brûler la ville. 
+Suite à l'arriver d'héritier A, la milice de la capital, ouvre les portes a celui-ci le voyant comme l'héritier légitime de l'empire. Afin d’empêcher successeur A de gagner un avantage considérable(économique, militaire et stratégique), héritier B ordonne un barrage de feu pour brûler la ville. 
 
 La ville brûla pendant 5 jours, ce faisant, l'armée du successeur A ne put rester dans la ville et fut contrainte de sortir par risque d'encerclement, manque de logement et de nourriture qui a brûler dans le dépôt.
 

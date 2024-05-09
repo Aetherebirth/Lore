@@ -18,7 +18,7 @@ Obsédé de création, la frustation l'envahit quand il en est incapable, allant
 
 
 # Histoire
-Le but de son existence fut toujours de crée. Dans cet objectif, il perfectionna ces capacités de [[cristalisation]] à un stade jamais atteint jusqu'à alors par aucun esprit. Cela s'explique par le désintérêt qu'était le réel pour les esprits avant les créations de Gadlufer. C'est ainsi qu'il éleva de la terre de la surface du monde créant les arches, et condensifia l'[[éther]] afin de créer la mer de nuage, afin de créer son petit monde loin de la surface [[Mērēli]]. Bien que la raison de cette volonté de s'éloigner de la surface reste incomprise. 
+Le but de son existence fut toujours de crée. Dans cet objectif, il perfectionna ces capacités de [[cristalisation]] à un stade jamais atteint jusqu'à alors par aucun esprit. Cela s'explique par le désintérêt qu'était le réel pour les esprits avant les créations de Gadlufer. C'est ainsi qu'il éleva de la terre de la surface du monde créant les arches, et condensifia l'[[Éther|éther]] afin de créer la mer de nuage, afin de créer son petit monde loin de la surface [[Mērēli]]. Bien que la raison de cette volonté de s'éloigner de la surface reste incomprise. 
 
 Dans Mērēli, il façonna la matière, la structura, l'imagina afin de former des êtres fonctionnels, capable de se développer et se reproduire, en assez grand nombre d'exemplaire pour créer des espèces. Mais, malgrès ses pouvoirs durement acquis, il resta incapable d'animer ses créations, elles restaient de la matère inerte de toute vie. Frustrer par son incapacité à assouvir son désir de création, il pleura, ces larmes se cristalisèrent et donnèrent vie à ses créations. Durant 10 longs Velter, il travailla alors à extérioriser sa tristesse et ces larmes afin de crée se que plus tard on nomma le [[Lacrymète]], du quel il pouvait sa guise extraire des lacrymas, de manière infini pour donner vie à ces oeuvres. 
 
@@ -38,7 +38,7 @@ Le nombre trop conséquent de créations amena à une surpeuplement des archipel
 
 Etapes de création d'êtres :
 1. Gadlufer crée des receptacles, des statues de matière
-2. La vie y est insufflée par l'influence de la [[Lacryma]]
+2. La vie y est insufflée par l'influence de la [[Lacryma et Lacrymiens|lacryma]]
 3. 
 
 # Visuels

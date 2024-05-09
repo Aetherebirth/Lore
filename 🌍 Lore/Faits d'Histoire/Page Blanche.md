@@ -1,4 +1,4 @@
 Grande extinction : [[Roi Démon|Gadlufer]] dans une crise d'inspiration réalise que son monde est surpeuplé de créatures qu'il juge de piètre qualité faisant tâche à ses chefs d'oeuvres et décide de s'en débarasser.  Il les jette alors dans la mer de nuage. 
 
 
-Cet évènement par son extrême violence et injustice attrista et apeura grandement  les [[Selphyde|Selphydes ]] qui décidèrent de chercher une façon d'anéantir Gadlufer. Problème : Gadlufer le créateur a le pouvoir de briser les [[Lacryma|lacrymas]] via le lien qui les raccordent à lui, et donc de tuer à sa volonté n'importe laquelle de ses créations.  
+Cet évènement par son extrême violence et injustice attrista et apeura grandement  les [[Selphyde|Selphydes ]] qui décidèrent de chercher une façon d'anéantir Gadlufer. Problème : Gadlufer le créateur a le pouvoir de briser les [[Lacryma et Lacrymiens|lacrymas]] via le lien qui les raccordent à lui, et donc de tuer à sa volonté n'importe laquelle de ses créations.  

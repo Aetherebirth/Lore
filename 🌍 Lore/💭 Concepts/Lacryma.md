@@ -1,3 +1,0 @@
-Cristallisation des larmes de [[Roi Démon|Gadlufer ]]. Elles ont la capacité d'animer les oeuvres originellement inanimées de Gadlufer. Ces êtres ne sont ni des vivants ni des esprits vue qu'il ne s'agit ni purement de matière complexe ni d'éther complexe, mais d'un subtil mélange des deux, on les nomme alors Lacrymiens. 
-
-Tout Lacrymien est doté d'une seul et unique lacryma qui l'anime, sa formation est inclus dans le processus de reproduction des espèces Lacrymiennes, ainsi seul la génération qui fut directement crée par Gadlufer possède une lacryma originaire de la [[Lacrymète]]. Les lacrymas des générations suivantes résultent 
