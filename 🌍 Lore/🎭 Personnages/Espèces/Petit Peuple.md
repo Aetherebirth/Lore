@@ -6,8 +6,7 @@ Il est à noter que les Lutins et Gnomes sont en tout point similaires physiquem
 Cette spécificité de l’espèce vise à tourner en dérision le racisme opéré généralement sans raison et illégitimement, simplement conditionnés dès la naissance à haïr autrui, le cycle de la haine.
 
 
-
-Nain : barbus, travailleur 
+ Nain : barbus, travailleur 
 gnome : chapeaux pointu , flemmard
 lutin : , flemmard 
 
