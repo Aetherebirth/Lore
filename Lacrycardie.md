@@ -1,0 +1,5 @@
+Phénomène touchant ceux qui abusent de la [[magie]] (artificielle/humaine) durant une période prolongé. La magie humaine bien que n'usant pas la [[Lacryma et Lacrymiens|lacryma]] directement, bloque sa capacité d'auto régénération de sorte à qu'elle ne récupère plus de son usure naturelle. Quand une telle situation se prolonge dans le temps, la lacryma finit par ne plus faire le volume nécessaire à son auto régénération. Une fois cette limite franchi, peut importe que l'individu cesse d'user de la magie, sa lacryma s'usera jusqu'à disparaître. A un moment, dans un réflex de survie, la lacryma tentera de s'étendre via des sursauts afin de réatteindre le volume nécessaire.
+Malheureusement dans le cas de l'humain, le volume nécessaire et le volume maximum étant si proche que dans la grande majorité des cas, ce sursaut fait explosé la lacryma (dépassement du volume maximum). 
+
+Bien qu'extrêmement rare, un individu né avec une lacryma très légèrement en dessous de son volume nécessaire est aussi victime de lacrycardie. Sa lacryma diminuant petit à petit naturellement. Un tel individu peut vivre plusieurs décennies dans cet état sans s'en rendre compte. 
+

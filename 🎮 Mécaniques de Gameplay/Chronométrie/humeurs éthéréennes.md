@@ -1,0 +1,1 @@
+Période d'un [[Müt et Semaine|müt]] pour laquelle l'éther 

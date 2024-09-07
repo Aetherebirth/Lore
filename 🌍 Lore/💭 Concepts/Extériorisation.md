@@ -4,20 +4,21 @@ Phénomène consistant à pousser l'élément constitutif d'un plan d'existence 
 
 On distingue deux formes d'Extériorisation symétriques : la **Cristallisation** et la **Sublimation**
 ### Cristallisation :
-Extériorisation de l'[[Éther|éther]] contre le plan [[Réel et Imaginaire|Réel]]. Par abus de langage, l'empreinte de l'éther sur la réalité par la cristallisation est aussi apelée éther. 
+Extériorisation de l'[[Éther|éther]] contre le plan [[Réel et Imaginaire|Réel]]. Par abus de langage, l'empreinte de l'éther sur la réalité par la cristallisation est aussi appelé éther. 
 (ce qui est logique vu qu'il s'agit de la seule manifestation de l'éther dans la réalité)
 ### Sublimation :
 Extériorisation de la matière contre le plan [[Réel et Imaginaire|Imaginaire]].  
 ## Description physique 
-L'univers peut être modélisé comme un espace riemannien bimétrique , à savoir une hypersurface à 4 dimensions avec deux couches repliées l'une sur l'autre (une couche étant le Réel l'autre l'Imaginiaire) en [symétrie CPT](https://www.januscosmologicalmodel.fr/post/th%C3%A9orie-des-syst%C3%A8mes-dynamiques)  interagissant par effet d'Extériorisation.
+L'univers peut être modélisé comme un espace riemannien bimétrique , à savoir une hypersurface à 4 dimensions avec deux couches repliées l'une sur l'autre (une couche étant le Réel l'autre l'Imaginiaire) en [symétrie CPT](https://www.januscosmologicalmodel.fr/post/th%C3%A9orie-des-syst%C3%A8mes-dynamiques)  interagissant par effet d'Extériorisation. Il peut être simplifié en un espace à 5 dimension, 3 spatiales, 1 temporel et 1 "épaisseur"  entre les deux couches (dites 5e dimension, Quinte) 
 
 Si beaucoup reste à étudier, quelques principes de bases ont pue être définis en usant de la gravitation newtonienne (qui fonctionne très bien pour la description d'objet de masses faibles, des vitesses largement inférieur à celle de la lumière, ce qui est le cas in game). 
 
-### Force d'existence Fx : 
+### Quintessence Fq : 
 
-Chaque élémént de l'univers exerce une force à tout autre élément de l'univers orienté vers elle directement proportionnelle au produit de leurs masses , de leurs coefficients de courbures signés (représentant la courbure du plan d'existence engendré par chacun des éléments, deux éléments de plans différents ayant des signes opposés), et inversement proportionnelle au carré de leurs distances métriques :
+Chaque élément de l'univers exerce une force à tout autre élément de l'univers orienté vers elle directement proportionnelle au produit de leurs masses , de leurs coefficients de courbures signés (représentant la courbure du plan d'existence engendré par chacun des éléments, deux éléments de plans différents ayant des signes opposés), et inversement proportionnelle au carré de leurs distances métriques :
 Fx = m1 * m2 * Kx1 * Kx2  * 1/ d²
 
+Fq <sub>1/2</sub> = m<sub>1</sub>
 avec :
 m : la masse en kg
 Kx : le coefficient de courbure  en m³ kg⁻¹  s⁻², 
@@ -58,7 +59,7 @@ Cette technique est particulièrement difficile pour ceux ayant vécu des trauma
 Les éléments Extériorisés agissent comme des catalyseurs à  l'extériorisation des éléments de même plan à proximité (voir Fx).  Ainsi
 
 ## Effets : 
-C'est par cristallisation par catalyse naturelle que les lacrymas s'auto-regénèrent. De même pour la création de fils d'éthers, et la [[magie]] qui repose sur l'intensification de la cristallisation des lacrymas, et donc de son usure, pour augmenter l'effet de catalyse au point que l'effet passoire permette les effets désires par celle-ci (par exemple un apport d'énergie suffisant à faire une boule de feu)
+C'est par cristallisation par catalyse naturelle que les lacrymas s'auto-regénèrent. De même pour la création de fils d'éthers, et la [[magie]] (naturelle) qui repose sur l'intensification de la cristallisation des lacrymas, et donc de son usure, pour augmenter l'effet de catalyse au point que l'effet passoire permette les effets désires par celle-ci (par exemple un apport d'énergie suffisant à faire une boule de feu)
 .
 ## Source : 
 https://www.passeportsante.net/fr/Therapies/Guide/Fiche.aspx?doc=visualisation_th

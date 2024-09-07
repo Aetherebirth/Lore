@@ -1,4 +1,4 @@
-Zun : soleil/jour/lumière    
+Zun : soleil/jour/lumière    (zu : usé comme "jour" pour  compté les jours)
 Nuz : lune/nuit/ombre
 
 ---
@@ -48,6 +48,7 @@ Sol : Vrai, vérité
 Los : faux, mensonge
 
 En : métal, dur, résistant, gardé
+Ne : soie, souple
 
 Tū : nature    -> tūr : arbre, forêt
 

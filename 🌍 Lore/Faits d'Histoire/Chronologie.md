@@ -8,7 +8,7 @@ Velter 10 : création de la [[Lacrymète]]
 Velter 3 092 : Création des  [[Selphyde|Selphydes]] 
 
 
-# 2 ième Éon :
+# 2nd Éon :
 Velter 4 450 - 0 : [[Page Blanche]]  
 
 Velter 1 271 : création du [[petit peuple]]  

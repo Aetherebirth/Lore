@@ -1,7 +1,7 @@
 # Caractérisiques
 **Capitale :** Zénith (Ruines), 
 **Régent :** 
-**Localisation :** Situés au centre de l'île au milieu du [[lac Aure]]
+**Localisation :** Situés au centre de l'île Aurore au milieu du [[lac Aure]]
 **Peuples :** Fantômes
 # Description
 # Histoire
