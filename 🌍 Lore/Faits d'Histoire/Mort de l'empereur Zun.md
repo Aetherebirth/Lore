@@ -25,7 +25,7 @@ Cependant, [[L'unique]] fut pris de cour par "Le pailleux" qui le soir même ord
 
 # Conséquence
 
-Un problème survient très vite à la mort de l'empereur : ce dernier ne s'attendant pas du tout à mourir dans les décennies à venir, n'avait pas nommé qui serait l'héritier au trône parmi les deux frères ainés  jumeaux : Amahan Zun et Nuz Zun (futur : Juämahan III - Junuz III)  gouverneurs respectifs des régions de Amzun et Nuzam. Un "pigeons voyageurs (autre chose mais idée)" à destination de Aube capital d'Amzun et un autre à destination de Crépuscule capital de Nuzam, chacun porteur d'un même message prévenant les héritiers de la mort de l'empereur et les invitant à venir au palais impérial pour discuter de la succession. 
+Un problème survient très vite à la mort de l'empereur : ce dernier ne s'attendant pas du tout à mourir dans les décennies à venir, n'avait pas nommé qui serait l'héritier au trône parmi les deux frères ainés  jumeaux : [[Amahan Zun]] et [[Nuz Zun]] (futur : Juämahan III - Junuz III)  gouverneurs respectifs des régions de Amzun et Nuzam. Un [[Pioupiouteur]] à destination de Aube capital d'Amzun et un autre à destination de Crépuscule capital de Nuzam, chacun porteur d'un même message prévenant les héritiers de la mort de l'empereur et les invitant à venir au palais impérial pour discuter de la succession. 
 
 1. Les deux jumeaux entament alors une course à la prise de Zénith, 
 
@@ -45,6 +45,6 @@ Les différences militaires entre Amzun et Nuzam s'expliquent par de multiples f
 Amzun est donc moins militarisée. Sa population contenant une moins dense proportion d'aventurier (parfois engagé comme soldat lors des guerres ) est essentiellement composé de paysans, la région étant le grenier du continent avec ces grands champs (moins dense population).
 
 
-Un messager fut envoyé pour Midi capital de Mizun pour le frère cadet, Zyno Zun, gouverneur de la région. La traversé de la mer de nuages étant impossible pour un "pigeon voyageur". Le message lui parvint "..." plus tard. Se doutant d'un conflit entre ces frères, il prend ses distances et décide d'être neutre. Néanmoins, il se maintient vivement informé de la situation avec des informateurs dans chaque camp. 
+Un messager fut envoyé pour Midi capital de Mizun pour le frère cadet, [[Zyno Zun]], gouverneur de la région. La traversé de la mer de nuages étant impossible pour un "pigeon voyageur". Le message lui parvint "..." plus tard. Se doutant d'un conflit entre ces frères, il prend ses distances et décide d'être neutre. Néanmoins, il se maintient vivement informé de la situation avec des informateurs dans chaque camp. 
 
 

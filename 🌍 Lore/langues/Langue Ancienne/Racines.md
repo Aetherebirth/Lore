@@ -13,7 +13,7 @@ Ama/m : itération, révolution, tour
 
 Di : divin
 Nha : démoniaque
-In : humain  -> ni : peu d'humain, village
+In : humain, peuple  -> ni : peu d'humain, village
 
 ---
 
@@ -30,7 +30,7 @@ bē : grand, haut, gigantesque
 i- : corps (+f, pour le mot de la partie du corps )
 
 Yē : très nombreux 
-üt : bas, sous
+üt : bas, sous (fragment aussi)  
 
 ---
 rē : terre, immobilité
